@@ -1,1 +1,17 @@
-# rivacy-policy
+# Privacy Policy                                                                                                                                                                                               
+                                                                                                                                                                                                                 
+  **Last updated: November 2024**                                                                                                                                                                                
+                                                                                                                                                                                                                 
+  This chatbot is operated by Dream Wedding Dress Shop.                                                                                                                                                          
+                                                                                                                                                                                                                 
+  ## Information We Collect                                                                                                                                                                                      
+  We collect messages you send to our chatbot on Facebook Messenger, including your name and phone number when booking appointments.                                                                             
+                                                                                                                                                                                                                 
+  ## How We Use Information                                                                                                                                                                                      
+  We use your information only to process bookings and respond to inquiries.                                                                                                                                     
+                                                                                                                                                                                                                 
+  ## Data Storage                                                                                                                                                                                                
+  Booking information is stored securely and not shared with third parties.                                                                                                                                      
+                                                                                                                                                                                                                 
+  ## Contact                                                                                                                                                                                                     
+  For privacy concerns, contact us via Facebook Page.
